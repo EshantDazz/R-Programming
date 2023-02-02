@@ -1,0 +1,10 @@
+#WHile loop
+
+
+#To stop infinite loop just press escape
+i<-1
+while(i<10)
+{
+  print(i)
+  i<-i+1
+}
